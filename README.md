@@ -54,7 +54,7 @@ python homework.py
 ## Тестирование проекта:
 Тестирование реализовано с использованием библиотеки Pytest. 
 
-Запустить тесты из основной директории проекта:
++ Запустить тесты из основной директории проекта:
 ```bash
 pytest
 ```
@@ -66,3 +66,5 @@ pytest
 Автор проекта - Yandex Practicum | [GitHub](https://github.com/yandex-praktikum)
 
 Разработчик - Andrew Fedorchenko | [GitHub](https://github.com/Furturnax) [Telegram](https://t.me/furturnax)
+
+Ревьюер - Evgeniy Salahutdinov | [GitHub](https://github.com/EugeneSal)

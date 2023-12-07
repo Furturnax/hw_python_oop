@@ -27,10 +27,10 @@
 
 ## Dreamteam
 
-Автор проекта - Yandex Practicum | [GitHub](https://github.com/yandex-praktikum)
+[GitHub](https://github.com/yandex-praktikum) | Автор проекта - Yandex Practicum  
 
-Разработчик - Andrew Fedorchenko | [GitHub](https://github.com/Furturnax)
+[GitHub](https://github.com/Furturnax) | Разработчик - Andrew Fedorchenko 
 
-Ревьюер - Evgeniy Salahutdinov | [GitHub](https://github.com/EugeneSal)
+[GitHub](https://github.com/nik-miniakink) | Наставник - Nikolay Minyakin
 
-Наставник - Nikolay Minyakin | [GitHub](https://github.com/nik-miniakink)
+[GitHub](https://github.com/EugeneSal) | Ревьюер - Evgeniy Salahutdinov

@@ -6,25 +6,31 @@
 - корректная обработка поступивших пакетов данных;
 - отправка сообщения о результатах тренировки.
 
-Проект является учебным. Основная польза в приобретении понимания реализации методологии объектно-ориентированного программирования, использования `dataclass`, аннотирования типов данных. 
+Проект является учебным. Основная польза в приобретении понимания реализации проекта с использованием:
+- методологии объектно-ориентированного программирования;
+- `dataclass` и его особенностей;
+- аннотации типов данных;
+- принципов чистого кода.
 
 <br>
 
 ## Технологический стек:
-- Python 3.11.5
-- Pytest 7.4.2
+- [Python 3.11.5](https://docs.python.org/release/3.11.5/)
+- [Pytest 7.4.2](https://docs.pytest.org/en/7.4.x/)
 
 <br>
 
 ## Запуск проекта :shipit: :
-[SetUp.md](./SetUp.md)
+[Руководство по развёртыванию проекта](./SetUp.md)
 
 <br>
 
-## Авторство
+## Dreamteam
 
 Автор проекта - Yandex Practicum | [GitHub](https://github.com/yandex-praktikum)
 
 Разработчик - Andrew Fedorchenko | [GitHub](https://github.com/Furturnax)
 
 Ревьюер - Evgeniy Salahutdinov | [GitHub](https://github.com/EugeneSal)
+
+Наставник - Nikolay Minyakin | [GitHub](https://github.com/nik-miniakink)

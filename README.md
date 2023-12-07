@@ -20,12 +20,12 @@
 
 <br>
 
-## Запуск проекта :shipit: :
+## Развёртывание проекта :shipit: :
 [Руководство по развёртыванию проекта](./SetUp.md)
 
 <br>
 
-## Dreamteam
+## Dreamteam:
 
 [GitHub](https://github.com/yandex-praktikum) | Автор проекта - Yandex Practicum  
 
